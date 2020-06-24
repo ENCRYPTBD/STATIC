@@ -1,7 +1,0 @@
-User-agent: *
-Crawl-delay: 10
-Disallow: /xbjAPvWq/
-Disallow: /uTohQSgW/
-Disallow: /rHOxbLGz/
-Disallow: /eGRszPLq/
-Disallow: /WvAJzIsl/
